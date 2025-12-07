@@ -10,3 +10,5 @@
 Ссылка на [решение] (https://github.com/bd100k/git_071225.git)
 
 Задание 3
+
+Ссылка на граф (https://github.com/bd100k/git_071225/network)
