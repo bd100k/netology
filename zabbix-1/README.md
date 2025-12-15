@@ -56,6 +56,7 @@
 5. Приложите в файл README.md текст использованных команд в GitHub
 
 Ниже список команд, использованных для поднятия агента
+
     1  wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
     2  dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
     3  apt update
