@@ -48,6 +48,18 @@
 
 ##### Требования к результатам
 1. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
-3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
-4. Приложите в файл README.md текст использованных команд в GitHub
+   <img width="1919" height="1108" alt="image" src="https://github.com/user-attachments/assets/1434a1f4-9b5f-4159-9ac2-c55141abcf4a" />
+3. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
+   <img width="1097" height="414" alt="image" src="https://github.com/user-attachments/assets/ca5ea013-48fa-4e95-8f3f-6a26e4db0230" />
+4. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+   <img width="1905" height="1106" alt="image" src="https://github.com/user-attachments/assets/3e569498-2013-44bc-b486-529d7ce80ae5" />
+5. Приложите в файл README.md текст использованных команд в GitHub
+
+Ниже список команд, использованных для поднятия агента
+    1  wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+    2  dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
+    3  apt update
+    4  apt install zabbix-agent
+    5  systemctl restart zabbix-agent
+    6  systemctl enable zabbix-agent
+    7  ip a
