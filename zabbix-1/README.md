@@ -57,10 +57,12 @@
 
 Ниже список команд, использованных для поднятия агента
 
-    1  wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
-    2  dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
-    3  apt update
-    4  apt install zabbix-agent
-    5  systemctl restart zabbix-agent
-    6  systemctl enable zabbix-agent
-    7  ip a
+    1  sudo apt update && sudo apt upgrade -y
+    2  sudo -s
+    3  wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+    4  dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
+    5  apt update
+    6  apt install zabbix-agent
+    7  systemctl restart zabbix-agent
+    8  systemctl enable zabbix-agent
+    9  ip a
