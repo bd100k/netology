@@ -10,7 +10,8 @@
 ##### Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
  
-[Задание 1]("https://github.com/user-attachments/assets/65f7759c-2ef3-4c0b-8c03-54532a188ef2")
+<img width="1919" height="1146" alt="image" src="https://github.com/user-attachments/assets/6c0802de-eaf7-4d9c-91cd-ef78bed99d65" />
+
 
 --------------
 
