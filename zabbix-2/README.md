@@ -9,9 +9,13 @@
 
 ##### Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
- 
-<img width="1919" height="1146" alt="image" src="https://github.com/user-attachments/assets/6c0802de-eaf7-4d9c-91cd-ef78bed99d65" />
 
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/4c4ac06f-199b-4f0e-bfbe-514e2173ab87" />
+<img width="1381" height="805" alt="image" src="https://github.com/user-attachments/assets/c49f0c5a-3d8f-4a55-8728-93f389053c15" />
+<img width="1336" height="801" alt="image" src="https://github.com/user-attachments/assets/ff190a7b-193c-419c-ad2a-03f46d8f49eb" />
+<img width="1726" height="993" alt="image" src="https://github.com/user-attachments/assets/a448077b-3eba-473e-b21b-bfea4d626549" />
+<img width="1721" height="1058" alt="image" src="https://github.com/user-attachments/assets/7b66a3de-30e9-42b1-a3c1-956faa1040d5" />
+<img width="1909" height="1067" alt="image" src="https://github.com/user-attachments/assets/8a491201-ad7f-4b37-a3aa-e2ea279c92a5" />
 
 --------------
 
