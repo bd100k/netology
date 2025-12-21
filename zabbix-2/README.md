@@ -50,6 +50,10 @@
 ##### Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
+<img width="1912" height="1109" alt="image" src="https://github.com/user-attachments/assets/c5b373ea-35e6-402b-a3b8-58836fe3a8d4" />
+<img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/15a6eeaa-7588-4edf-a9cc-6c5a17c8bcf0" />
+<img width="1915" height="1106" alt="image" src="https://github.com/user-attachments/assets/ac891ed0-d074-4640-a392-d82eed20b8fa" />
+
 --------------
 
 ### Задание 4
