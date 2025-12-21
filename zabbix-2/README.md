@@ -33,6 +33,9 @@
 ##### Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
 
+ <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ce88e1ce-b950-4d4b-9d8b-c63ac0cac541" />
+<img width="1919" height="1145" alt="image" src="https://github.com/user-attachments/assets/2cc1876f-a9d4-4bc2-afe1-cf7d6537c4e3" />
+
  --------------
 
 ### Задание 3
