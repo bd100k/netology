@@ -19,3 +19,12 @@
 
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 скриншоты с успешно собранными сборками.
+
+мой gitlab-ci.yml
+<img width="689" height="544" alt="image" src="https://github.com/user-attachments/assets/1e3cfea8-172d-4456-8df2-239e9cb2ac15" />
+
+<img width="1841" height="1088" alt="image" src="https://github.com/user-attachments/assets/442b5967-546f-4f2b-947a-a553c027c472" />
+
+<img width="1841" height="1083" alt="image" src="https://github.com/user-attachments/assets/8feb1329-4d40-477d-a228-9d8b6144a04f" />
+<img width="1844" height="1087" alt="image" src="https://github.com/user-attachments/assets/bfdd19c4-73e6-4d60-bba8-41a5d93563b1" />
+<img width="1843" height="1085" alt="image" src="https://github.com/user-attachments/assets/287fe8e3-8ac9-468a-b91e-8cd20bcbd3ae" />
