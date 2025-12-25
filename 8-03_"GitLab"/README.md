@@ -21,6 +21,7 @@
 скриншоты с успешно собранными сборками.
 
 мой gitlab-ci.yml
+
 <img width="689" height="544" alt="image" src="https://github.com/user-attachments/assets/1e3cfea8-172d-4456-8df2-239e9cb2ac15" />
 
 <img width="1841" height="1088" alt="image" src="https://github.com/user-attachments/assets/442b5967-546f-4f2b-947a-a553c027c472" />
