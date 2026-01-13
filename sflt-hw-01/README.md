@@ -9,6 +9,16 @@
 
 <img width="560" height="212" alt="image" src="https://github.com/user-attachments/assets/41fdc374-ab45-42eb-bc48-9aa292bb807c" />
 
+
+<img width="1241" height="543" alt="image" src="https://github.com/user-attachments/assets/6e28619d-48d0-407a-862e-5e46a5947da4" />
+<img width="476" height="209" alt="image" src="https://github.com/user-attachments/assets/48858972-3fac-414b-bedb-931f39c3f052" />
+
+<img width="1196" height="476" alt="image" src="https://github.com/user-attachments/assets/2fd55a87-e8d7-4917-b4d6-cc8cd563b0e4" />
+<img width="473" height="224" alt="image" src="https://github.com/user-attachments/assets/b6b83f32-1ffc-4588-87b3-448946102d1e" />
+
+<img width="1213" height="496" alt="image" src="https://github.com/user-attachments/assets/9343c92b-878f-4f23-a946-f9a8e45ecb1d" />
+<img width="476" height="212" alt="image" src="https://github.com/user-attachments/assets/f80e29a4-98c5-4059-9c54-f21405e46728" />
+
 ------
 
 ### Задание 2
