@@ -5,6 +5,10 @@
  - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
  - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
+<img width="586" height="265" alt="image" src="https://github.com/user-attachments/assets/5ec49cf3-8665-437c-8320-e26654539ad1" />
+
+<img width="560" height="212" alt="image" src="https://github.com/user-attachments/assets/41fdc374-ab45-42eb-bc48-9aa292bb807c" />
+
 ------
 
 ### Задание 2
