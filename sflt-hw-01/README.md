@@ -15,3 +15,4 @@
  - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 [bash.sh](https://github.com/bd100k/netology/blob/main/sflt-hw-01/bash.sh)
+[keepalived.conf](https://github.com/bd100k/netology/blob/main/sflt-hw-01/keepalived.conf)
