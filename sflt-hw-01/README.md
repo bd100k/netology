@@ -15,4 +15,14 @@
  - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 [bash.sh](https://github.com/bd100k/netology/blob/main/sflt-hw-01/bash.sh)
+
 [keepalived.conf](https://github.com/bd100k/netology/blob/main/sflt-hw-01/keepalived.conf)
+
+<img width="1736" height="607" alt="image" src="https://github.com/user-attachments/assets/2ca1ab85-a83d-451e-8171-558758630c7e" />
+<img width="1356" height="475" alt="image" src="https://github.com/user-attachments/assets/968b9f13-96e5-4b39-a473-4d675e9dc59e" />
+
+<img width="1012" height="157" alt="image" src="https://github.com/user-attachments/assets/2083b2d0-4fe7-428a-b4bc-efa05fb27d98" />
+<img width="1357" height="461" alt="image" src="https://github.com/user-attachments/assets/0c3ea211-35b7-41cb-b036-fe0cf0408ec5" />
+
+<img width="988" height="113" alt="image" src="https://github.com/user-attachments/assets/02a8d067-d705-49f2-affd-2ab17536bd71" />
+<img width="1290" height="503" alt="image" src="https://github.com/user-attachments/assets/89c20613-f0de-4ffc-b84c-85007f20e732" />
