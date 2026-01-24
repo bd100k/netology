@@ -20,4 +20,4 @@
 
 <img width="857" height="749" alt="image" src="https://github.com/user-attachments/assets/81803e54-b34b-4402-ad78-acff682df7b6" />
 
-[Файл конфигурации]()
+[Файл конфигурации](https://github.com/bd100k/netology/blob/main/sflt-hw-02/2/haproxy.cfg)
