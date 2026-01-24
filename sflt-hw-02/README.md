@@ -8,7 +8,7 @@
 
 <img width="619" height="526" alt="image" src="https://github.com/user-attachments/assets/0deb6e78-d0fb-4023-99b9-5105e6b4826f" />
 
-Файл конфигурации
+[Файл конфигурации](https://github.com/bd100k/netology/blob/main/sflt-hw-02/1/haproxy.cfg)
 
 -----
 
