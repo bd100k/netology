@@ -6,6 +6,12 @@
  * Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
  * На проверку направить скриншот с командой и результатом ее выполнения
 
+<img width="980" height="770" alt="image" src="https://github.com/user-attachments/assets/3a9637c4-97fb-442a-82a3-e4ab54df82bf" />
+
+<img width="696" height="386" alt="image" src="https://github.com/user-attachments/assets/c6a1aa77-45b9-4b2c-928b-2a0e8704a27d" />
+
+
+
 -----
 
 ##### Задание 2
