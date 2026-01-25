@@ -18,6 +18,8 @@
  - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
  - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+<img width="527" height="335" alt="image" src="https://github.com/user-attachments/assets/edcb18f1-ccfb-44d6-869c-556bf7aef0a8" />
+
 <img width="857" height="749" alt="image" src="https://github.com/user-attachments/assets/81803e54-b34b-4402-ad78-acff682df7b6" />
 
 [Файл конфигурации](https://github.com/bd100k/netology/blob/main/sflt-hw-02/2/haproxy.cfg)
