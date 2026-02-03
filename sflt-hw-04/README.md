@@ -20,6 +20,7 @@
 _В качестве результата пришлите:_
 
 _1. Terraform Playbook._
+<https://github.com/bd100k/netology/blob/main/sflt-hw-04/cloud-init.yml>
 
 _2. Скриншот статуса балансировщика и целевой группы._
 
