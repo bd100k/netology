@@ -20,8 +20,20 @@
 _В качестве результата пришлите:_
 
 _1. Terraform Playbook._
+
 <https://github.com/bd100k/netology/blob/main/sflt-hw-04/cloud-init.yml>
 
+<https://github.com/bd100k/netology/blob/main/sflt-hw-04/main.tf>
+
+<https://github.com/bd100k/netology/blob/main/sflt-hw-04/providers.tf>
+
+<https://github.com/bd100k/netology/blob/main/sflt-hw-04/variables.tf>
+
 _2. Скриншот статуса балансировщика и целевой группы._
+
+<img width="1483" height="431" alt="изображение" src="https://github.com/user-attachments/assets/fe89250a-451f-4e67-a0c4-f42d561340b1" />
+
+<img width="1502" height="436" alt="изображение" src="https://github.com/user-attachments/assets/e3f53eb0-e853-4e0c-9f44-8300f68a55ec" />
+
 
 _3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика._
