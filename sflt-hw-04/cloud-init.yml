@@ -6,3 +6,6 @@ users:
     sudo: ["ALL=(ALL) NOPASSWD:ALL"]
     ssh_authorized_keys:
       - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOOrxzk4jzkDlxMq38h4G3DGrwaEw6p6qxYWFKB4MLT1 ubuntu_24.04
+
+
+
