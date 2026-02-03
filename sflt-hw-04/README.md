@@ -23,11 +23,11 @@ _1. Terraform Playbook._
 
 [cloud-init.yml](https://github.com/bd100k/netology/blob/main/sflt-hw-04/cloud-init.yml)
 
-<https://github.com/bd100k/netology/blob/main/sflt-hw-04/main.tf>
+[main.tf](https://github.com/bd100k/netology/blob/main/sflt-hw-04/main.tf)
 
-<https://github.com/bd100k/netology/blob/main/sflt-hw-04/providers.tf>
+[providers.tf](https://github.com/bd100k/netology/blob/main/sflt-hw-04/providers.tf)
 
-<https://github.com/bd100k/netology/blob/main/sflt-hw-04/variables.tf>
+[variables.tf](https://github.com/bd100k/netology/blob/main/sflt-hw-04/variables.tf)
 
 _2. Скриншот статуса балансировщика и целевой группы._
 
