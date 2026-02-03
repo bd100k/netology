@@ -14,3 +14,6 @@ provider "yandex" {
   zone = "ru-central1-b"
   service_account_key_file = file("~/.authorized_key.json")
 }
+
+
+
